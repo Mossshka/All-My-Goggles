@@ -1,0 +1,5 @@
+! name: us-boost
+! description: shows more .us sites
+! public: true
+! author: mossshka
+*.us^$boost=10
