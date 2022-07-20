@@ -1,0 +1,6 @@
+! name: ru-boost
+! description: shows more .ru/.su sites
+! public: true
+! author: mossshka
+*.ru^$boost=10
+*.su^$boost=10
