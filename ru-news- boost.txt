@@ -1,0 +1,9 @@
+! name: ru-news-boost
+! description: shows more news from russia
+! public: true
+! author: mossshka
+$boost=4,site=themoscowtimes.com
+$boost=4,site=tass.com
+$boost=4,site=rt.com
+$boost=4,site=sputniknews.com
+$boost=4,site=government.ru
