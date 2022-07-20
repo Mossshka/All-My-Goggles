@@ -1,7 +1,7 @@
-! name: ru-news-boost
-! description: shows more news from russia
+! name: Ru-News-Boost
+! description: Shows more news from Russia.
 ! public: true
-! author: mossshka
+! author: Mossshka
 $boost=4,site=themoscowtimes.com
 $boost=4,site=tass.com
 $boost=4,site=rt.com
