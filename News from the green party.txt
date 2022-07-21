@@ -1,0 +1,12 @@
+! name: News from the green party
+! description: shows more news from the green party
+! public: true
+! author: mossshka
+$boost=5,site=greenpagesnews.org
+$boost=5,site=gp.org
+$boost=3,site=politico.com
+$boost=3,site=missoulacurrent.com
+$boost=4,site=greens.org.au
+$boost=4,site=greenparty.org.uk
+$boost=4,site=gpofpa.org
+$boost=3,site=federalretirees.ca
