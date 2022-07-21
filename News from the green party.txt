@@ -2,6 +2,7 @@
 ! description: shows more news from the green party
 ! public: true
 ! author: mossshka
+! avatar: #0a7c41
 $boost=5,site=greenpagesnews.org
 $boost=5,site=gp.org
 $boost=3,site=politico.com
