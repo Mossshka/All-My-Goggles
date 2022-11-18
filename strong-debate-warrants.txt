@@ -4,6 +4,7 @@
 ! author: Mossshka
 ! avatar: #ffffff
 $boost=10,site=news.un.org
+$boost=10,site=senate.gov
 $boost=10,site=un.org
 $boost=10,site=cdc.gov
 $boost=10,site=fcc.gov
