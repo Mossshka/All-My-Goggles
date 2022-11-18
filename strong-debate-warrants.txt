@@ -2,6 +2,7 @@
 ! description: Filters out irrelivant sources by putting mainstreem stuff on top.
 ! public: true
 ! author: Mossshka
+! avatar: #ffffff
 $boost=10,site=news.un.org
 $boost=10,site=un.org
 $boost=10,site=cdc.gov
