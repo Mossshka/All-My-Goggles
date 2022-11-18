@@ -72,7 +72,7 @@ $boost=4,site=procon.org
 $boost=4,site=vox.com
 $discard,site=instagram.com
 $discard,site=twitter.com
-$discard,site=redit.com
+$discard,site=reddit.com
 $discard,site=newsroom.tiktok.com
 $discard,site=facebook.com
 $discard,site=quora.com
