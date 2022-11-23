@@ -96,4 +96,24 @@ $discard,site=weather.com
 $discard,site=nationalgeographic.com
 $discard,site=hellomotherhood.com
 $discard,site=urbandictionary.com
+$discard,site=worldgreynews.com
+$discard,site=channel23news.com
+$discard,site=theonion.com
+
+!part copied from jlennox's No geeksforgeeks and w3schools Goggle.
+$discard,site=www.geeksforgeeks.org
+$discard,site=www.w3schools.com
+$discard,site=geeksforgeeks.org
+$discard,site=w3schools.com
+
+!part copied from JeffreyKozik's No Google Goggle.
+$discard,site=google.com
+$discard,site=youtube.com
+$discard,site=android.com
+$discard,site=chrome.com
+$discard,site=nest.com
+$discard,site=looker.com
+$discard,site=waze.com
+$discard,site=appsheet.com
+$discard,site=fitbit.com
 
