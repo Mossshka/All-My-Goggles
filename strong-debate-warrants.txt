@@ -64,7 +64,7 @@ $boost=8,site=nypost.com
 $boost=8,site=theatlantic.com
 $boost=8,site=ctvnews.ca
 $boost=8,site=news.sky.com
-$boost=7,site=princeton.edu
+$boost=8,site=princeton.edu
 $boost=7,site=mit.edu
 $boost=7,site=harvard.edu
 $boost=7,site=stanford.edu
