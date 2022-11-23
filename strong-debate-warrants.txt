@@ -6,6 +6,7 @@
 $boost=10,site=news.un.org
 $boost=10,site=senate.gov
 $boost=10,site=un.org
+$boost=10,site=ec.europa.eu
 $boost=10,site=cdc.gov
 $boost=10,site=fcc.gov
 $boost=10,site=fda.gov
@@ -39,12 +40,15 @@ $boost=9,site=lamoncloa.gob.es
 $boost=9,site=canada.ca
 $boost=9,site=admin.ch
 $boost=9,site=korea.net
+$boost=9,site=nasa.gov
 $boost=9,site=australia.gov.au
 $boost=8,site=cnn.com
 $boost=8,site=nbcnews.com
 $boost=8,site=foxnews.com
 $boost=8,site=abcnews.go.com
+$boost=8,site=huffpost.com
 $boost=8,site=cbsnews.com
+$boost=8,site=independent.co.uk
 $boost=8,site=cnet.com
 $boost=8,site=washingtonpost.com
 $boost=8,site=bloomberg.com
@@ -57,6 +61,7 @@ $boost=8,site=msn.com
 $boost=8,site=bbc.com
 $boost=8,site=bbc.co.uk
 $boost=8,site=nypost.com
+$boost=8,site=theatlantic.com
 $boost=8,site=ctvnews.ca
 $boost=8,site=news.sky.com
 $boost=7,site=princeton.edu
@@ -65,11 +70,15 @@ $boost=7,site=harvard.edu
 $boost=7,site=stanford.edu
 $boost=7,site=yale.edu
 $boost=7,site=caltech.edu
+$boost=7,site=pbs.org
+$boost=7,site=bu.edu
+$boost=7,site=bc.edu
 $boost=6,site=ca.gov
 $boost=6,site=texas.gov
 $boost=6,site=ms.gov
 $boost=6,site=mass.gov
 *.gov^$boost=5
+*.edu^$boost=1
 $boost=4,site=procon.org
 $boost=4,site=vox.com
 $discard,site=instagram.com
@@ -86,3 +95,5 @@ $discard,site=socialistpartyusa.net
 $discard,site=weather.com
 $discard,site=nationalgeographic.com
 $discard,site=hellomotherhood.com
+$discard,site=urbandictionary.com
+
