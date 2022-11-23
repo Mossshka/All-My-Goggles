@@ -1,4 +1,4 @@
-! name: Strong-debate-warrents
+! name: Strong debate warrents
 ! description: Filters out irrelivant sources by putting mainstreem stuff on top.
 ! public: true
 ! author: Mossshka
