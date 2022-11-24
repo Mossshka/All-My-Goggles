@@ -1,5 +1,5 @@
-! name: Strong-debate-warrents-st
-! description: Completely removes irrelivant sources and puts mainstreem stuff on top.
+! name: Strong debate warrents+
+! description: Removes all sources, except sources boosted by Strong debate warrents.
 ! public: true
 ! author: Mossshka
 ! avatar: #000000
@@ -66,7 +66,7 @@ $boost=8,site=nypost.com
 $boost=8,site=theatlantic.com
 $boost=8,site=ctvnews.ca
 $boost=8,site=news.sky.com
-$boost=7,site=princeton.edu
+$boost=8,site=princeton.edu
 $boost=7,site=mit.edu
 $boost=7,site=harvard.edu
 $boost=7,site=stanford.edu
