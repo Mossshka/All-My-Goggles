@@ -30,7 +30,6 @@ $boost=9,site=whitehouse.gov
 $boost=9,site=democrats.org
 $boost=9,site=rnc.org
 $boost=9,site=independentamericanparty.org
-$boost=9,site=wikipedia.org
 $boost=9,site=bundesregierung.de
 $boost=9,site=elysee.fr
 $boost=9,site=governo.it
@@ -116,4 +115,15 @@ $discard,site=looker.com
 $discard,site=waze.com
 $discard,site=appsheet.com
 $discard,site=fitbit.com
+
+!1.1 
+!wikipedia removed
+$boost=10,site=ojp.gov
+$boost=3,site=psu.edu
+$boost=6,site=japantimes.co.jp
+$boost=4,site=aljazeera.com
+$boost=7,site=forbes.com
+$boost=8,site=msnbc.com
+$boost=1,site=cheddar.com
+$boost=7,site=nationalreview.com
 
