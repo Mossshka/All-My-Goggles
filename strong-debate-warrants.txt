@@ -124,6 +124,14 @@ $boost=6,site=japantimes.co.jp
 $boost=4,site=aljazeera.com
 $boost=7,site=forbes.com
 $boost=8,site=msnbc.com
-$boost=1,site=cheddar.com
 $boost=7,site=nationalreview.com
+
+!1.2
+!cheader is no longer boosted
+$boost=6,site=connectusfund.org
+$boost=3,site=csmonitor.com
+$boost=6,site=hbr.org
+$boost=9,site=justice.gc.ca
+$boost=3,site=vittana.org
+$boost=8,site=nbcnews.com
 
