@@ -135,3 +135,6 @@ $boost=9,site=justice.gc.ca
 $boost=3,site=vittana.org
 $boost=8,site=nbcnews.com
 
+!1.2.1
+$boost=4,site=newsmax.com
+
