@@ -1,0 +1,15 @@
+! name: No Stock Image Sites
+! description: Rerank results to remove pages that sell stock images.
+! public: true
+! author: Mossshka
+! avatar: #ffffff
+$discard,site=gettyimages.com
+$discard,site=gettyimages.com.au
+$discard,site=gettyimages.co.uk
+$discard,site=gettyimages.fr
+$discard,site=istockphoto.com
+$discard,site=dreamstime.com
+$discard,site=axiomimages.com
+$discard,site=shutterstock.com
+$discard,site=elements.envato.com
+$discard,site=pixabay.com
